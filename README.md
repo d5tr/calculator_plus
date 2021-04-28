@@ -11,5 +11,5 @@ $ cd calculator
 $ sudo chmod +x 7asba.sh
 ```
 ```
-$ ./7asba.sh 1 + 1
+$ ./7asba.sh first number operation second nuber 
 ```
