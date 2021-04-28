@@ -13,3 +13,4 @@ $ sudo chmod +x 7asba.sh
 ```
 $ ./7asba.sh first number operation second nuber 
 ```
+* if you went use ( * ) set "" like "*"
